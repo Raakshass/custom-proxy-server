@@ -1,0 +1,6 @@
+# Proxy Authentication Users
+# Format: username:password
+
+admin:secret123
+user:password
+guest:guest

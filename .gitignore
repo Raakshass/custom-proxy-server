@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+# Blocked domains blacklist
+# Format: one domain per line, supports *.example.com patterns
+# Comments start with #
+
+# Example blocked sites (you can modify these)
+example.com
+malicious.org
+phishing-site.net
+
+# Wildcard examples (blocks all subdomains)
+*.blocked-network.com
+*.ads-tracker.com
+
+# Individual IP addresses
+192.0.2.5
+203.0.113.42
+
+# CIDR ranges (blocks entire IP ranges)
+10.0.0.0/8
+172.16.0.0/12
+
+# Add your own
+facebook.com
+*.tracker.com
+192.168.1.100

@@ -1,0 +1,11 @@
+# Python dependencies for Proxy Server
+
+# Core requirements (already in Python stdlib)
+# asyncio, socket, logging - built-in, no installation needed
+
+# Testing (optional but recommended)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# For load testing (optional)
+aiohttp>=3.8.0
